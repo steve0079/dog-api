@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dog-api/static/css/main.164bea86.chunk.css",
-    "main.js": "/dog-api/static/js/main.d6c05501.chunk.js",
-    "main.js.map": "/dog-api/static/js/main.d6c05501.chunk.js.map",
+    "main.js": "/dog-api/static/js/main.cd7197da.chunk.js",
+    "main.js.map": "/dog-api/static/js/main.cd7197da.chunk.js.map",
     "runtime~main.js": "/dog-api/static/js/runtime~main.2c22ab41.js",
     "runtime~main.js.map": "/dog-api/static/js/runtime~main.2c22ab41.js.map",
     "static/js/2.a46e4f5d.chunk.js": "/dog-api/static/js/2.a46e4f5d.chunk.js",
     "static/js/2.a46e4f5d.chunk.js.map": "/dog-api/static/js/2.a46e4f5d.chunk.js.map",
     "index.html": "/dog-api/index.html",
-    "precache-manifest.492f9b783c4a791d9405bf891620c4d4.js": "/dog-api/precache-manifest.492f9b783c4a791d9405bf891620c4d4.js",
+    "precache-manifest.60dd44ca09732b42ade2b2dcb19456f2.js": "/dog-api/precache-manifest.60dd44ca09732b42ade2b2dcb19456f2.js",
     "service-worker.js": "/dog-api/service-worker.js",
     "static/css/main.164bea86.chunk.css.map": "/dog-api/static/css/main.164bea86.chunk.css.map"
   }
